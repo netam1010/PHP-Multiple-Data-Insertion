@@ -1,3 +1,5 @@
+<!--Created:17/04/2020
+    Developed:Netam1010 -->
 <?php 
 $conn = mysqli_connect("localhost","root", "", "loop_test");
 $name = $_POST['name'];
