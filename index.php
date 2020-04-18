@@ -1,18 +1,3 @@
-<?php
-/*$name="ram";
- $pass=md5($name);
- echo "MD5 :", $pass ,"///////";
-
- $pass1 = password_hash("ram", PASSWORD_BCRYPT);
- 
- echo "Hash :",$pass1;
- 
- if (password_verify('Ram', $pass1)) {
-    echo 'Password is valid!';
-} else {
-    echo 'Invalid password.';
-}*/
-?>
 <!DOCTYPE html>
 <html>
 <head>
